@@ -1,7 +1,7 @@
 -- Creating a database
 CREATE DATABASE alx_book_store;
 
--- using a database
+-- using the created database
 USE DATABASE alx_book_store;
 
 -- creating tables
